@@ -12,7 +12,7 @@ En retrospectiva, esto no es tan malo, por que nos da oportunidad para empezar a
 * Respeta el tiempo y energía de los demás, nadie esta ahí siempre para ayudarte
 * La comunidad te llenará de motivación, encontrarás más personas con muchas buenas ideas para cambiar al mundo y aparte aprenderás muchas cosas nuevas
 * A darle con toda mi querido/a compañero/a!
-
+* Creada por el increíble SeendIo Team
 
 ![Tux](https://i.imgur.com/rZhY17o.png)
 
