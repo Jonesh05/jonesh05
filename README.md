@@ -45,4 +45,3 @@ In retrospect, this is not entirely a negative outlook — it presents an opport
 </div>
 
 
- **Let me know if you'd like this adapted for a blog post, slide deck, or community announcement.**
