@@ -23,7 +23,7 @@ I’m currently learning Rust and Python.
 - [Design System & UI Kit](https://github.com/jonesh05) - Second project where i learned about useReducer, useContext, provider structure, and overview of Storybook/ui.
 
 # Hyperblog 💚
-An Incredible Blog for the Precarious, Desperate, and Roaming Multiplanetary Being of This Space Belt, known as W3C, or the World Wide Web Consortium. A true enthusiast of open-source software and emerging technologies, frequently utilized in the development of projects contributed to by developers around the globe. 
+An Incredible Blog for the Precarious, Desperate, and Roaming Multiplanetary Being of This Space Belt, known as W3C. A true enthusiast of open-source software and emerging technologies, frequently utilized in the development of projects contributed to by developers around the globe. 
 > Muchos de estos desarrolladores, son personas que llevan 10 años o más en la industria del software. Sin embrargo, aún no han integrado los que estan comenzando por este asombroso y mágico mundo de la programación. De acuerdo con estadísticas de la Apache Software Foundation, apenas el 2.6% de las contribuciones de código (commits) en sus proyectos son realizadas por personas que se identifican como hispanos o latinos.
 > As reported by the Mexican publication *[Software Guru](https://sg.com.mx/buzz/fundaciones-open-source-impartiran-talleres-para-guiar-devs-en-latam-contribuir-proyectos)*
 
