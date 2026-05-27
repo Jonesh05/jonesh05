@@ -12,7 +12,7 @@ I’m currently learning Rust and Python.
 
 | Name | Framework | Repo | Tags |
 |-|-|-|-|
-| Website Portfolio | Nextjs | [Link](https://github.com/jonesh05) | react, nextjs, gsap/ui, typescript, zustand, firebase, og image generator |
+| Website Portfolio | Nextjs | [Link](https://github.com/jonesh05/personal-website) | react, nextjs, gsap/ui, typescript, zustand, firebase, og image generator |
 | Utils E-commerce | Django | [Link](https://github.com/jonesh05) | dynamodb, Liquid templates, tailwindcss, mongo atlas|
 | AI Trading Bot | Python | [Link](https://github.com/jonesh05) | vs code extension, tensorflow, pandas, text to handwriting |
 | NFT ReFi Platform | TypeScript | [Link](https://github.com/jonesh05) | nextjs, solidity, walletconnect, hardhat, react, IPFS |
